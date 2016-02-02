@@ -26,6 +26,6 @@ echo -e "\033[0;32mDeploying updates to Github...\033[0m"
 
 # Push source and build repos.
 git push origin master
-git subtree push --prefix=public git@github.com:rooty/rooty.github.io.git `git subtree split --prefix public master`
+git subtree push --prefix=public git@github.com:rooty/rooty.github.io.git master
 
 echo -e "\033[0;32mChanges successfully published!\033[0m"
