@@ -1,0 +1,7 @@
+[submodule "themes/hugo-bootstrap"]
+	path = themes/hugo-bootstrap
+	url = https://github.com/mmrath/hugo-bootstrap.git
+[submodule "public"]
+	path = public
+	url = git@github.com:rooty/rooty.github.com.git
+	branch = master
