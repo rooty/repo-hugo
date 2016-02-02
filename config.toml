@@ -1,12 +1,12 @@
 # hostname (and path) to the root eg. http://spf13.com/
-baseurl = "https://rooty.github.io/"
+baseurl = "http://rooty.github.io/"
 # Site title
 title = "Bearded sysadmin"
 
 #Copyright
 copyright = "(c) 2015 BlacRooty."
 
-canonifyurls = false
+#canonifyurls = false
 contentdir = "content"
 
 # Language
